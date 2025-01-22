@@ -1,5 +1,7 @@
 # Reporting Security Issues
 
+This is not your regular TagSpaces, so bettern not to do this, but you can if you want - 
+
 If you discover a security issue in TagSpaces, please report it by sending an
 email to [contact@tagspaces.org](mailto:contact@tagspaces.org).
 
